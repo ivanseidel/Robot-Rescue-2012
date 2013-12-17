@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" android:layout_margin="16dp">
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Program's list"
+        android:textAppearance="?android:attr/textAppearanceLarge" android:layout_margin="8dp"/>
+
+    <Button
+        android:id="@+id/runProgram3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Run Program 2 (PID Esquerda)" />
+    
+    <!-- <Button
+        android:id="@+id/runProgram2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Run Program 2 (super team)" /> -->
+
+    <Button
+        android:id="@+id/runProgram1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Run Program 1 (main)"/>
+
+</LinearLayout>

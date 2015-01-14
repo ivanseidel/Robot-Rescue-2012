@@ -1,7 +1,7 @@
 Robot-Rescue-2012
 =================
 
-![RoboCup Rescue B](https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-ash3/62843_516852158373101_1360090908_n.jpg)
+![RoboCup Rescue B](https://raw.githubusercontent.com/ivanseidel/Robot-Rescue-2013/master/Midia/info_08.png)
 
 This repository includes the entire Rescue B project from 2012, used in the international RoboCup Rescue B league.
 Our team could acomplish the 3th place in super-team and 1st place of robot design.
@@ -14,4 +14,4 @@ The software has about 12.000 lines of code, written in Java, using Interfaces, 
 
 The image bellow is the sketch of the sensors/controllers.
 
-![RoboCup Rescue B connections](https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-prn1/544890_336957009695951_2167128_n.jpg)
+![RoboCup Rescue B connections](https://raw.githubusercontent.com/ivanseidel/Robot-Rescue-2012/master/Midia/Info_04.png)
